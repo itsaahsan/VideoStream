@@ -1,6 +1,6 @@
-# 🎬 VideoStream - Professional Video Streaming Platform
+VideoStream - Professional Video Streaming Platform
 
-   A full-featured video streaming platform similar to YouTube/Twitch, built with modern web technologies. Upload, transcode, stream, and interact with videos seamlessly.
+A full-featured video streaming platform similar to YouTube/Twitch, built with modern web technologies. Upload, transcode, stream, and interact with videos seamlessly.
 
 
 ## ✨ Features
